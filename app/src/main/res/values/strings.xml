@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Aboutme</string>
+    <string name="phelisia_jeruto">Phelisia Jeruto</string>
+    <string name="yellow_star">yellow_star</string>
+
+    <string name="bio">Lorem ipsum dolor sit amet. Aut officiis voluptatibus hic aliquam nesciunt ut inventore soluta ex error quam hic consequatur magni non sint omnis id corporis sapiente. Eum ipsa ipsa cum blanditiis quia ut facilis ducimus.Quo nobis accusamus et alias rerum non animi beatae non incidunt odio. Cum animi sequi hic maiores error sed nihil omnis aut quas reprehenderit et dolore molestias?
+    Ab adipisci sapiente aut enim vero et nemo optio et nihil repellat est odit nesciunt eum suscipit galisum. Eos explicabo illo rem rerum eligendi et rerum consequatur et animi quod. Ut consectetur vero non corporis molestiae ab error repellat!
+
+    Lorem ipsum dolor sit amet. Aut officiis voluptatibus hic aliquam nesciunt ut inventore soluta ex error quam hic consequatur magni non sint omnis id corporis sapiente. Eum ipsa ipsa cum blanditiis quia ut facilis ducimus. Quo nobis accusamus et alias rerum non animi beatae non incidunt odio. Cum animi sequi hic maiores error sed nihil omnis aut quas reprehenderit et dolore molestias?Ab adipisci sapiente aut enim vero et nemo optio et nihil repellat est odit nesciunt eum suscipit galisum. Eos explicabo illo rem rerum eligendi et rerum consequatur et animi quod. Ut consectetur vero non corporis molestiae ab error repellat!
+</string>
+    <string name="todo">TODO</string>
+    <string name="what_is_your_nickname">what is your nickname</string>
+    <string name="done">Done</string>
+</resources>
